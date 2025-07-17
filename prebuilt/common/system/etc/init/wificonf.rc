@@ -1,5 +1,0 @@
-service wificonf /system/bin/wificonf
-    class main
-    user root
-    group wifi
-    oneshot
